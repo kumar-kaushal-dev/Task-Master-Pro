@@ -11,15 +11,6 @@ A sleek and interactive task manager web app that lets you add, delete, and mana
 - 🌙 Light/Dark theme support (optional)
 - 📱 Responsive design
 
-## 📸 Demo
-
-> *(Add a screen recording or GitHub Pages link here if deployed)*
-
-## 🚀 Live Preview
-
-[Click to View Live](https://your-username.github.io/Task-Master-Pro/)  
-> *(Replace with actual GitHub Pages link)*
-
 ## 🛠️ Tech Stack
 
 - HTML5
